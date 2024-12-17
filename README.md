@@ -1,6 +1,6 @@
-# PersonalPortfolio--V2
+# PersonalPortfolio
 
-A Newer Better Version Of my Portfolio Website...
+My Portfolio Website...
 
 
-Website Link:- https://yashaskhot.tech/
+Website Link:- https://yashaskhot.me/
